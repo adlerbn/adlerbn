@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @yahyaBakhtiarnia
-- 👀 I’m interested in iOS native and Also know about crossplatform frameworks like Flutter.
+![Header](assets/images/header.png)
+
+- 👋 Hi, I’m Yahya Bakhtiarnia
+- 👀 I’m interested in native iOS and Also know about crossplatform frameworks like Flutter.
 - 💞️ I’m looking to collaborate on International scale projects.
 - 💪 I am a team player and also highly motivated when working on Apple platforms.
 - 📫 You can always contact me via E-mail: bakhtiarniayahya1378@gmail.com
@@ -47,5 +49,5 @@ Comming soon..
 ### 📫 Connect with Me
 
 <a href="https://www.linkedin.com/in/yahyabakhtiarnia">
-  <img align="left" alt="Linkdein" width="32px" height="32px" src="icons/linkedin.svg"/>
+  <img align="left" alt="Linkdein" width="32px" height="32px" src="assets/icons/linkedin.svg"/>
 </a>
