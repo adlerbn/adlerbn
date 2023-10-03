@@ -39,7 +39,7 @@ My expertise lies within iOS development, where I specialize in devising archite
 Comming soon..
 
 ### ⏱️ Wakatime
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=adlerbn&theme=github_dark&border_radius=12&langs_count=3)](https://wakatime.com/@ghasemdev)
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=adlerbn&theme=github_dark&border_radius=12&langs_count=3)](https://wakatime.com/@adlerbn)
 
 ### ⚙️ GitHub Analytics
 
